@@ -1,3 +1,8 @@
+/* Some left and right padding inside the container */
+.containerr {
+    padding-bottom: 2px;
+  text-align: center;
+}
 
 /* Body 
 ------------------------------------- */
